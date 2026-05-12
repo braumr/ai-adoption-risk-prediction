@@ -70,6 +70,23 @@ CSV outputs were exported for Power BI dashboard creation.
 While the historical mean baseline outperformed the neural network based on pure numerical methods, the model captured directionality better. Still, this suggests that the dataset may have been too small or noisy for the neural network to generalize effectively.
 
 ---
+#### Visualizations
+
+### Weekly Risk Sentiment Scores
+![Weekly Risk Sentiment](img/Weeklyrisksentimenttrends.png)
+
+### AI Organization Word Cloud. Size set by counts of comments including mentions of risk.
+![Word Chart](img/AIOrgWordChart.png)
+
+### ACTUAL VS PREDICTED RISK SENTIMENT
+![Risk Sentiment](img/ActualvsPredictedRiskForecast.png)
+
+### Risk Rate by Company
+![Risk Rate by Company](img/riskratebycompany.png)
+
+
+
+---
 
 ## Installation
 
